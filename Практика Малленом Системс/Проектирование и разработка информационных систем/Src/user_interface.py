@@ -76,7 +76,7 @@ class user_interfaceUI:
             elif choice == "4":
                 break
 
-# Запуск
 if __name__ == "__main__":
     ui = user_interfaceUI()
+
     ui.run()
